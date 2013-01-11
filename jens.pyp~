@@ -1,0 +1,6 @@
+
+
+if __name__ == "__main__":
+	bmp = bitmaps.BaseBitmap()
+	dir, file = ops.path.split(__file__)
+	bitmapfile = os.path.join(dir, 

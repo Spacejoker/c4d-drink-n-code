@@ -1,0 +1,12 @@
+CONTAINER jens
+{
+	NAME jens;
+	INCLUDE Obase;
+
+	GROUP JENS_SETTINGS
+	{
+		LONG JENS_SCALE {MINEX; MIN 1; }	
+
+		BOOL JENS_ONOFF {}
+	}
+}

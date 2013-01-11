@@ -1,0 +1,9 @@
+STRINGTABLE jens
+{
+	jens "Jens mega-plugin";
+	
+	JENS_SCALE "Scale";
+	JENS_ONOFF "Enable";
+	JENS_SETTINGS "Settings";
+	
+}
